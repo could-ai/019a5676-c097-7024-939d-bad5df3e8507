@@ -2,16 +2,16 @@ import 'package:flutter/material.dart';
 import 'screens/home_screen.dart';
 
 void main() {
-  runApp(const AIPhotoEditorApp());
+  runApp(const KhaligAIPhotoEditor());
 }
 
-class AIPhotoEditorApp extends StatelessWidget {
-  const AIPhotoEditorApp({super.key});
+class KhaligAIPhotoEditor extends StatelessWidget {
+  const KhaligAIPhotoEditor({super.key});
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'AI Photo Editor',
+      title: 'Khalig AI Photo Editor',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(

@@ -1,5 +1,5 @@
-name: couldai_user_app
-description: "AI-powered photo editing application with advanced filters and effects."
+name: khalig_ai_photo_editor
+description: "Khalig - AI-powered photo editing application with advanced filters and effects."
 publish_to: 'none'
 
 version: 1.0.0+1
